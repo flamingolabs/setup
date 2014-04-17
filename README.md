@@ -39,3 +39,8 @@ If you see <tab> that means you hit the tab key
 #### Accounts
 * Create a GitHub account. Pick a good username, you'll be using it all the time.
 * Set up git locally https://help.github.com/articles/set-up-git
+
+### Helpful Tools
+* Icon @fontface Generator: http://www.icomoon.io
+* Favicon Generator: http://favicon-generator.org
+

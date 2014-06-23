@@ -21,6 +21,7 @@ If you see <tab> that means you hit the tab key
 * Install homebrew http://mxcl.github.io/homebrew/
 
 #### Dotfiles
+* follow directions at https://github.com/rileytg/dotfiles
 * coreutils for nice `ll`, `l`, and `ls` `$ brew install coreutils`
 
 #### Ruby

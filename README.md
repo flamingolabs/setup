@@ -1,8 +1,6 @@
-FCFlamingo setup
-=====
+# FCFlamingo setup
 
 ### Notes:
-
 #### $
 If it asks you to run something like this:
 `$ run me at terminal`
